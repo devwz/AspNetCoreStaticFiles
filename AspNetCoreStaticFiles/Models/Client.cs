@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace AspNetCoreStaticFiles.Models
 {
-    public class Clients
+    public class RootClients
     {
-        public Client[] Client { get; set; }
+        public Client[] Clients { get; set; }
     }
 
     public class Client
