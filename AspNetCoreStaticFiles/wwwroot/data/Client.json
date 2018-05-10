@@ -1,0 +1,21 @@
+﻿{
+  "Clients": {
+    "Client": [
+      {
+        "id": 1,
+        "nome": "Chuck Norris",
+        "email": "gmail@norris.com"
+      },
+      {
+        "id": 2,
+        "nome": "Van Damme",
+        "email": "damme@gmail.com"
+      },
+      {
+        "id": 3,
+        "nome": "Arnold Schwarzenegger",
+        "email": "arnold@gmail.com"
+      }
+    ]
+  }
+}
